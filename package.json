@@ -23,7 +23,7 @@
     "email"
   ],
   "dependencies": {
-    "lockit-template-blank": "https://github.com/hdeshmukh/lockit-tempalte-blank/archive/v0.0.1.tar.gz",
+    "lockit-template-blank": "git://github.com/hdeshmukh/lockit-template-blank#master",
     "ejs": "~0.8.5",
     "nodemailer": "~0.5.15"
   },
